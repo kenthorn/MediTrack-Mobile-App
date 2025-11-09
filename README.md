@@ -10,7 +10,7 @@ MediTrack is a mobile app that helps users manage their medication schedules wit
 1. Clone the repository
 
      ```bash
-   git clone https://github.com/mhtan1119/ASPteam68.git
+   git clone https://github.com/kenthorn/MediTrack-Mobile-App.git
    ```
      
 2. Install dependencies
